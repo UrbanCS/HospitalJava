@@ -35,9 +35,9 @@ Patient:	Represents hospital patients with unique IDs.
 🚀 How to Run
 
 1. Clone the Repository
-git clone https://github.com/UrbanCS/HospitalJava.git
-cd HospitalJava
+-git clone https://github.com/UrbanCS/HospitalJava.git
+-cd HospitalJava
 
 2. Open in Eclipse
-Import as an existing Java project.
-Run HospitalTest.java to verify functionality.
+-Import as an existing Java project.
+-Run HospitalTest.java to verify functionality.
