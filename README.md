@@ -1,10 +1,3 @@
-Here’s a **README.md** file for your **HospitalJava** project based on the provided instructions:  
-
----
-
-### **Hospital Java - Virtual Hospital Management System**  
-📌 *EECS 2030: Programming Exam 2 (Winter 2022)*  
-
 #### **Overview**  
 This project implements a **Virtual Hospital Management System** using **Object-Oriented Programming (OOP) principles**. It is designed to model relationships between various hospital entities such as **Physicians, Administrators, Volunteers, and Patients** while enforcing encapsulation, abstraction, inheritance, and polymorphism.  
 
@@ -52,12 +45,3 @@ This project implements a **Virtual Hospital Management System** using **Object-
 2. **Open in Eclipse**  
    - Import as an existing Java project.  
    - Run `HospitalTest.java` to verify functionality.  
-
----
-
-## **📜 Academic Integrity Notice**  
-This project was part of **EECS 2030 - Programming Exam 2** and follows **academic honesty guidelines**. Sharing, copying, or distributing this code violates York University’s policies.  
-
----
-
-Would you like any modifications or additional sections in the README? 😊
